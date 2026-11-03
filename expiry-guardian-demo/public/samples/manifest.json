@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-11-03T09:14:37.423Z",
+  "date": "2026-10-24",
+  "files": [
+    "pipeline-A.json",
+    "pipeline-B.json",
+    "pipeline-C.json",
+    "pipeline-D.json",
+    "pipeline-E.json",
+    "review-E.json",
+    "pipeline-E-after.json"
+  ],
+  "feedback": "模拟实验回填，非企业执行结果"
+}
