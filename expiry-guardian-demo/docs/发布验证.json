@@ -1,0 +1,11 @@
+{
+  "stores": "ABCDE",
+  "batchesEach": 60,
+  "fixedSlots": 21,
+  "tierAndZoneFiltering": "PASS",
+  "walkPauseResume": "PASS",
+  "hiddenOnlineControls": "PASS",
+  "apiRequests": [],
+  "externalRequests": [],
+  "pageErrors": []
+}
